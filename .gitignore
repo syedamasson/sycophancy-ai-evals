@@ -1,0 +1,6 @@
+.env
+*.key
+mapping_sealed.json
+__pycache__/
+.remember/
+.DS_Store
