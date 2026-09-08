@@ -4,3 +4,6 @@ mapping_sealed.json
 __pycache__/
 .remember/
 .DS_Store
+
+# private planning notes, never committed
+_private/
